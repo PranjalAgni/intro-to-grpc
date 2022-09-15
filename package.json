@@ -1,0 +1,17 @@
+{
+  "name": "intro-to-grpc",
+  "version": "1.0.0",
+  "description": "Introduction to gRPC using NodeJS",
+  "main": "src/server.js",
+  "scripts": {
+    "server": "node src/server.js",
+    "client": "node src/client.js"
+  },
+  "author": "PranjalAgni",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.7.0",
+    "@ngneat/falso": "^6.1.0",
+    "nanoid": "^3.3.4"
+  }
+}
