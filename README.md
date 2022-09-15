@@ -1,6 +1,6 @@
 # Intro to gRPC
 
-RPC: Remote Procedure Calls
+`RPC: Remote Procedure Calls`
 
 ## What is gRPC?
 
@@ -90,4 +90,8 @@ Client application can directly call a method on server application on a differe
 
 ## Few Links
 
+https://mehdihadeli.github.io/awesome-go-education/gRPC/
+
 https://github.com/grpc/grpc-node/blob/master/packages/proto-loader/README.md
+
+https://grpc.io/
