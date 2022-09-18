@@ -16,7 +16,7 @@ const todoProto = grpc.loadPackageDefinition(packageDefinition);
 
 const server = new grpc.Server();
 
-// In-memory todo DB
+// In-memory todo DB array 
 const todoList = [];
 
 // Service methods goes here
